@@ -159,6 +159,14 @@ h6 {
     padding: 0;
 }
 
+#move-number{
+    position:relative;
+    right:70px;
+}
+#move-email{
+    position:relative;
+    top:20px;
+}
 .page-content {
     margin-left: 80px;
     position: relative;
