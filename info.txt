@@ -1,0 +1,1 @@
+Updates to github page must be done via the upload button on the repository in order for changes to be made to the portfolio website.
