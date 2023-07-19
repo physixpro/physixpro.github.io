@@ -1045,6 +1045,7 @@ section.active {
     overflow: hidden;
 	border-radius: 4px;
     margin-bottom: 30px;
+    left:18em;
 }
 
 .portfolio .portfolio-content .item img {
